@@ -106,6 +106,16 @@ This project demonstrates how ARP handling can be managed in an SDN environment 
 
 ---
 
+## Screenshots
+
+### Mininet Ping Output
+<img width="1546" height="535" alt="1" src="https://github.com/user-attachments/assets/5ad12fbc-aad0-4f50-a321-ec1f0e173494" />
+
+### Pingall and Topology Verification
+<img width="919" height="428" alt="2" src="https://github.com/user-attachments/assets/e260b861-babf-4b8f-b74c-a3e263fd7749" />
+
+---
+
 ## Author
 
 Neha Rastogi
